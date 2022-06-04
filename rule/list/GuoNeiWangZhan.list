@@ -7017,3 +7017,9 @@ DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home
+
+# 其他自定义
+DOMAIN,btbdys.com
+DOMAIN,bde4.cc
+DOMAIN,zhenbuka5.com
+DOMAIN,pcc.mmiyue.com
